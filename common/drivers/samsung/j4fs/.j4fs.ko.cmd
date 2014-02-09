@@ -1,0 +1,1 @@
+cmd_drivers/samsung/j4fs/j4fs.ko := /home/kurotsugi/sgy/arm-2009q3/bin/arm-none-eabi-ld -EL -r  -T /home/kurotsugi/sgy/nu/common/scripts/module-common.lds --build-id -o drivers/samsung/j4fs/j4fs.ko drivers/samsung/j4fs/j4fs.o drivers/samsung/j4fs/j4fs.mod.o
